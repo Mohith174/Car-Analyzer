@@ -1,8 +1,8 @@
-# Car Analyzer
+# Car Analyzer (MTCARS)
 
 ## Overview
 
-This R script provides a comprehensive analysis of the `mtcars` dataset, which includes several variables related to automobile design and performance. The script utilizes multiple statistical techniques to explore, analyze, and predict vehicle efficiency based on various factors.
+This R script provides a comprehensive analysis of the `mtcars` dataset, which includes several variables related to automobile design and performance. The script utilizes multiple statistical techniques to explore, analyze, and predict vehicle efficiency based on various factors.This project demonstrates several statistical and machine learning techniques using the mtcars dataset in R. It includes data visualization, correlation analysis, linear regression, decision tree modeling, and a Naïve Bayes classifier to explore and predict Miles Per Gallon (mpg) performance.
 
 ## Features
 
@@ -32,7 +32,6 @@ The script uses the `mtcars` dataset, which is a built-in dataset in R containin
 ## Authors
 
 Mohith Kodavati and Anirudh Deveram
-
 
 ## Usage
 
